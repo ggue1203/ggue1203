@@ -1,42 +1,83 @@
-# 💫 안녕하세요! 약학도이자 AI 활용 개발자 ggue1203입니다!
+# ggue1203 💊👨‍💻
 
-> "배움에는 끝이 없고, 어제보다 오늘 더 성장하는 것을 목표로 합니다."  
-> 약학을 전공하는 비전공자의 시선으로, 더 쉽고 직관적인 헬스케어 서비스를 만들기 위해
-> AI 활용 개발(Vibe Coding)을 열심히 공부하고 있습니다.
-
----
-
-### 🙋 About Me
-
-| | |
-|---|---|
-| 🎓 | 원광대학교 약학대학 재학 중 |
-| 🏥 | 한국건강증진개발원 × 대학생 건강정보 디자인단 (헬로헬스 팀) |
-| 🗳️ | 학생회 족보 복원 프로젝트 운영 |
-| 🪖 | 군 복무 완료 후 복학, 새로운 시각으로 재도전 중 |
-| 💡 | 코딩 비전공자 → AI 협업 개발(Vibe Coding)로 한계 돌파 중 |
-| 🎮 | 리그 오브 레전드로 전략적 사고 훈련 중 (자칭) |
+> 약학을 공부하며 데이터와 사람을 연결하는 풀스택 개발자를 꿈꿉니다.
+> 
+> 건강 정보를 더 쉽고 정확하게 전달하는 서비스를 만드는 것이 목표입니다.
 
 ---
 
-### 🎯 목표 및 다짐
+## 🙋 About Me
 
-- 약학 전문성과 AI 개발 능력을 결합한 **헬스케어 서비스 프로젝트** 완성하기
-- 1일 1커밋을 실천하며 꾸준히 기록하는 습관 기르기
-- Claude Code · AI 도구를 적극 활용하는 **Vibe Coder**로 성장하기
-- 다양한 분야의 사람들과 소통하며 함께 협업하는 개발자 되기
+```js
+const ggue = {
+  major     : "약학 (Pharmacy)",
+  goal      : "풀스택 웹 개발자",
+  interests : ["헬스케어 IT", "건강 정보 서비스", "백엔드 개발"],
+  languages : ["JavaScript", "HTML", "CSS"],
+  backend   : ["Node.js", "Express.js"],
+  database  : ["MySQL"],
+  tools     : ["Git", "GitHub", "VSCode", "PM2"],
+  learning  : ["REST API", "Authentication", "Deployment"]
+};
+```
 
 ---
 
-### 🛠️ Tools & Interests
+## 💼 Projects & Activities
 
-![Claude](https://img.shields.io/badge/Claude-AI-orange?logo=anthropic)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown)
-![Windows](https://img.shields.io/badge/Windows_11-0078D4?logo=windows)
+### 💊 약학 분야
+
+| 활동 | 설명 | 기간 |
+|------|------|------|
+| 🏥 건강정보 서포터즈 | 대중에게 정확한 건강·의약 정보 제공 및 캠페인 활동 | - |
+| 🎓 학생회 | 약학대학 학생회 활동, 학생 커뮤니티 운영 및 행사 기획 | - |
+| 📖 스터디 | 약학 전공 심화 스터디 운영 및 참여 | - |
 
 ---
 
-### 📫 Contact
+### 💻 개발 분야
 
-- 🐙 GitHub: [github.com/ggue1203](https://github.com/ggue1203)
+| 프로젝트 | 설명 | 기술 스택 |
+|---------|------|----------|
+| 🖼 [Profile Page](https://github.com/ggue1203/profile-page) | HTML/CSS 기반 개인 프로필 페이지 | HTML, CSS |
+| 📦 [Stack-up](https://github.com/ggue1203/Stack-up) | 풀스택 웹 개발 학습 프로젝트 | Node.js, Express.js |
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ggue1203&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggue1203&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-iggue2411@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iggue2411@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ggue1203-181717?style=flat-square&logo=github)](https://github.com/ggue1203)
